@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node teste.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.7.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "csvtojson": "^2.0.10",
+    "date-fns": "^2.22.1",
+    "node-pre-gyp": "^0.17.0",
+    "papaparse": "^5.3.1",
+    "regression": "^2.0.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}
